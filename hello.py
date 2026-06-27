@@ -1,9 +1,9 @@
 numbers = [3, 2, 0, 1]
 input_value = 18
 
-def process_number(number):
+def process_number(number): # type: ignore
     try:
-        result = input_value / number
+        result = input_value / number # type: ignore
         print(f"18 / {number} = {result}")
 
     except Exception as e:
