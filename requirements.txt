@@ -1,0 +1,4 @@
+pytest
+pytest-html
+
+pip install -r requirements.txt
