@@ -1,5 +1,3 @@
-# src/bank_validator.py
-
 import re
 
 
